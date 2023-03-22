@@ -1,4 +1,5 @@
 import Sidebar from "./components/shared/Sidebar"
+import Header from "./components/shared/Header";
 
 function App() {
   
